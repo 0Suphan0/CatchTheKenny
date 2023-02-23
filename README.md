@@ -1,2 +1,2 @@
 # CatchTheKenny
- Java ve Android Studio kullanılarak kodlananmış Basit seviye android giriş uygulaması.
+-> Simple level android intro app coded using Java and Android Studio.
